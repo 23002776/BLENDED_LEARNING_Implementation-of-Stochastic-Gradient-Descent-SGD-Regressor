@@ -111,13 +111,11 @@ plt.show()
 ```
 
 ## Output:
-![Screenshot (124)](https://github.com/user-attachments/assets/94d51d9d-1716-4364-a789-ec5d083edaa6)
-
-![Screenshot (125)](https://github.com/user-attachments/assets/32822a58-9767-4c89-83c1-9b6473e5ed5d)
-![Screenshot (126)](https://github.com/user-attachments/assets/5982bc87-8053-4ea3-920e-6d2f27d80114)
-
- ![Screenshot (126)](https://github.com/user-attachments/assets/697efc03-a5f8-435e-a3a5-d7e2761af3ff)
+![Screenshot (124)](https://github.com/user-attachments/assets/2f832f2d-cb20-4c54-a16b-58a3fd90c1d9)
+![Screenshot (125)](https://github.com/user-attachments/assets/c7f9188a-757b-4b5e-97a8-51a64cc0ec23)
+![Screenshot (126)](https://github.com/user-attachments/assets/140d7f56-6d6f-4ccb-ab11-00430e84cb66)
+![Screenshot (127)](https://github.com/user-attachments/assets/0bc00771-e9c1-4c47-ad78-e7998d038f41)
 
 ## Result:
-Thus, the implementation of Stochastic Gradient Descent![Screenshot (126)](https://github.com/user-attachments/assets/b8e28f9f-1705-44ad-a633-bd0c8cafb027)
+Thus, the implementation of Stochastic Gradient Descent
  (SGD) Regressor for linear regression has been successfully demonstrated and verified using Python programming.
